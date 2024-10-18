@@ -1,3 +1,3 @@
 var sonido = new Audio();
-sonido.src="img/(audio) video.m4a";
+sonido.src="img/pedro.mp3";
 
